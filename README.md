@@ -36,6 +36,9 @@
 5. Then Scan **QR CODE**
 6. After Scan there started 👍
 
+# help command 
+![Image](https://github.com/madhukarmayank/wa-bot-v4/blob/master/img/help.jpg)
+
 # Handlers to Contact
 
 <a href="https://github.com/madhukarmayank"> Mayank </a>
