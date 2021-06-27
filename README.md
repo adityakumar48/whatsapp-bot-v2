@@ -36,8 +36,16 @@
 5. Then Scan **QR CODE**
 6. After Scan there started 👍
 
-# help command 
+## help command 
 ![Image](https://github.com/madhukarmayank/wa-bot-v4/blob/master/img/help.jpg)
+## Covid command
+![image](https://github.com/madhukarmayank/wa-bot-v4/blob/master/img/covid.jpg)
+## covid country name
+![Image](https://github.com/madhukarmayank/wa-bot-v4/blob/master/img/covid_india.jpg)
+## covid state name
+![Image](https://github.com/madhukarmayank/wa-bot-v4/blob/master/img/covid_Chha.jpg)
+## covid district name
+![Image](https://github.com/madhukarmayank/wa-bot-v4/blob/master/img/covid_durg.jpg)
 
 # Handlers to Contact
 
