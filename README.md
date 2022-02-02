@@ -29,7 +29,7 @@
 - path
 
 ## How To Use This Repo
-1. git clone https://github.com/adityakumar48/wa-bot-v4
+1. git clone https://github.com/adityakumar48/whatsapp-bot-v2.git
 2. open Terminal and Type **npm install**
 3. Then type **npm start**
 4. Now Open Browser and type **localhost:8000**
